@@ -25,7 +25,7 @@ gem "simple_form"
 gem "title"
 gem "uglifier"
 gem "unicorn"
-
+gem "clearance", "~> 1.10.1"
 group :development do
   gem "spring"
   gem "spring-commands-rspec"
